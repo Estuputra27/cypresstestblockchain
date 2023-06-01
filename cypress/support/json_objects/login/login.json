@@ -1,0 +1,8 @@
+{
+    "baseURL":"https://accounts.google.com/",
+    "validEmail":"estublockchain819@gmail.com",
+    "invalidPhoneNumber": "0811294423333",
+    "validPassword":"blockchain123",
+    "emptyEmail":" ",
+    "invalidPassword":"thisispassword"
+}
